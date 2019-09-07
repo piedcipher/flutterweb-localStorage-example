@@ -4,7 +4,8 @@ Example code for my write-up ["Harnessing the power of localStorage API in Flutt
 ### Live Demo
 [App :rocket:](http://flutterweb-localstorage-example.surge.sh/)
 
-![](https://raw.githubusercontent.com/piedcipher/flutterweb-localStorage-example/master/demo.gif?token=ADGVHWMWODP6VMLLOAOJ5OS5OOQEE)
+![](https://i.imgur.com/OhiMpUL.gif)
+
 ### Development Tools
 - [Dart](https://dart.dev)
 - [Flutter Web](https://flutter.dev/web)
