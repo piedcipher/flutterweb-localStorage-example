@@ -1,5 +1,5 @@
 # Flutter Web LocalStorage Example
-Example code for my write-up "Harnessing the power of localStorage API in Flutter Web App". It uses [window.localStorage](https://api.dartlang.org/stable/2.5.0/dart-html/Storage-class.html) API for persisting [brightness](https://api.flutter.dev/flutter/material/ThemeData/brightness.html) property of [ThemeData](https://api.flutter.dev/flutter/material/ThemeData-class.html).
+Example code for my write-up ["Harnessing the power of localStorage API in Flutter Web App"](https://link.medium.com/0xxijLpGOZ). It uses [window.localStorage](https://api.dartlang.org/stable/2.5.0/dart-html/Storage-class.html) API for persisting [brightness](https://api.flutter.dev/flutter/material/ThemeData/brightness.html) property of [ThemeData](https://api.flutter.dev/flutter/material/ThemeData-class.html).
 
 ### Live Demo
 [App :rocket:](http://flutterweb-localstorage-example.surge.sh/)
@@ -21,4 +21,4 @@ $ webdev serve
 
 ### Blog post
  
-Coming Today
+[Link :newspaper:](https://link.medium.com/0xxijLpGOZ)
